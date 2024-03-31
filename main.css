@@ -20,3 +20,18 @@ body {
   /* font-style: italic; */
   /* z-index: 1; */
 }
+#portfolio-link:link {
+  color : pink;
+  }
+
+  #portfolio-link:visited {
+    color : aliceblue;
+  }
+
+  #portfolio-link:hover {
+    color : aliceblue;
+  }
+  
+  #portfolio-link:active {
+    color : green
+  }
